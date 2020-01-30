@@ -10,7 +10,7 @@ assignees: heather999
 **Description**
 A clear and concise description of what the issue is.  
 
-Click all applicable topics:
+Choose all applicable topics by placing an 'X' between the [ ]:
 - [ ] jupyter
 - [ ] Cori interactive command line
 - [ ] Batch jobs
