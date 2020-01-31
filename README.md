@@ -7,3 +7,4 @@
 ## Links to Existing Documentation
 * [GitHub Tips](https://confluence.slac.stanford.edu/display/LSSTDESC/GitHub+Tips)
 * [Getting Started at NERSC](https://confluence.slac.stanford.edu/display/LSSTDESC/Getting+Started+at+NERSC)
+* [CC-IN2P3 User Guide](https://doc.lsst.eu/)
