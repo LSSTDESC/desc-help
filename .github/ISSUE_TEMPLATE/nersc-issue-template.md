@@ -12,6 +12,7 @@ A clear and concise description of what the issue is.
 
 Choose all applicable topics by placing an 'X' between the [ ]:
 - [ ] jupyter
+- [ ] jupyter terminal
 - [ ] Cori interactive command line
 - [ ] Batch jobs
 - [ ] python
